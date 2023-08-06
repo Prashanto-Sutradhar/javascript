@@ -4,11 +4,6 @@ console.log("power")
 const result = Math.pow(3, 8);
 console.log(result);
 
-// 
-
-// 
-
-
 // abstraction
 console.log("abstraction")
 
@@ -20,7 +15,6 @@ const total = Math.abs(num1 - num2);
 console.log(total);
 
 
-
 // round
 console.log("round")
 
@@ -30,8 +24,6 @@ const num4 = 50.4526
 console.log(Math.round(num4));
 
 
-
-
 //ceil and floor
 console.log("ceil and floor")
 
@@ -39,9 +31,6 @@ const num6 = 2.0001;
 console.log(Math.ceil(num6));
 const num7 = 2.0001;
 console.log(Math.floor(num7));
-
-
-
 
 
 // random values
